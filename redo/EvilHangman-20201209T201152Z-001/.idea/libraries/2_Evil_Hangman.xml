@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="2.Evil-Hangman">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EvilHangman/2.Evil-Hangman/hangman.zip!/" />
+      <root url="jar://$PROJECT_DIR$/EvilHangman/2.Evil-Hangman/hangmantestfiles.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

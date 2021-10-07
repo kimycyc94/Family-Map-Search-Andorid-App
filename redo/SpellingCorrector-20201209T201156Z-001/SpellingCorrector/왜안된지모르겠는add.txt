@@ -1,0 +1,28 @@
+/*if (node.nodeArray[word.charAt(i) - 'a'] == null) {                  //if the alphabet does not exist.
+                node.nodeArray[word.charAt(i) - 'a'] = new Node();                //Create a new node by using 'the given alphabet' - 'a'
+                countNode++;
+                if (i == (word.length() - 1)) {
+                    countWord++;
+                    node.incrementValue();                                        //increase frequency
+                }
+                node = node.nodeArray[word.charAt(i) - 'a'];
+            }
+
+            else {                                                                //if the alphabet already exists
+                if (i == (word.length() - 1)) {                                  //if the word is completed
+                    if (node.getValue() == 0) {
+                        countWord++;
+                    }
+                    node.incrementValue();                                       //increase frequency
+                }
+                else {
+                    node = node.nodeArray[word.charAt(i) - 'a'];                  //Update node
+                }
+            }*/
+            /*if (i == word.length() - 1) {
+                node.incrementValue();
+                if (node.nodeArray[word.charAt(i) - 'a'].getValue() == 1){
+                    countWord++;
+                }
+            }
+            node = node.nodeArray[word.charAt(i) - 'a'];*/
